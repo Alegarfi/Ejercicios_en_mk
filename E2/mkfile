@@ -1,0 +1,8 @@
+saludar_alejandro:
+	echo "HOLA ALEJANDRO"
+	echo "ADIOS ALEJANDRO"
+
+SALUDOS:
+	echo "HOLA ISRAEL" > SALUDOS
+	echo "ADIÓS ISRAEL" >> SALUDOS
+

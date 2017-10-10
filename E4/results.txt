@@ -1,0 +1,6 @@
+gen001  insulin_receptor
+gen003  foxp2
+gen005  kinesin
+gen007  cadherin
+gen008  angiotensin
+gen009  rhodopsin

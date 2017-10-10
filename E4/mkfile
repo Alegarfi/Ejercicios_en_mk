@@ -1,0 +1,3 @@
+results.txt:
+	grep -f IDs_de_interes.txt Nombres_de_genes.txt > results.txt
+	echo "FINALIZADO"

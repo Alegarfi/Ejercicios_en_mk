@@ -1,0 +1,2 @@
+index.html:
+	wget -i r1.txt

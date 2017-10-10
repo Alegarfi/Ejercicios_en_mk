@@ -1,0 +1,5 @@
+adverbios.txt:
+	grep -o 'of' wil.txt >> adverbios.txt
+	
+	echo TERMINADO
+

@@ -1,0 +1,11 @@
+index.html:
+	wget https://ftp.ncbi.nlm.nih.gov/dbgap/studies/
+
+
+r1.txt:
+	sed 's#"#\t#g' index.html | cut -f2 > r1.txt 
+	grep phs r1.txt > r2.txt
+	rm r1.txt
+	mv r2.txt r1.txt
+	sed -i "s|^|ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/|" r1.txt
+	echo "DONE"

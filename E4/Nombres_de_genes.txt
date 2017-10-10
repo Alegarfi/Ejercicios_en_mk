@@ -1,0 +1,11 @@
+gen001  insulin_receptor
+gen023  dopamine_receptor
+gen003  foxp2
+gen045  BDNF
+gen005  kinesin
+gen089  dinein
+gen007  cadherin
+gen986  opioid1_receptor
+gen008  angiotensin
+gen009  rhodopsin
+gen013  p53

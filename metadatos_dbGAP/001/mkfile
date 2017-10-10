@@ -1,0 +1,2 @@
+index.html:
+	wget https://ftp.ncbi.nlm.nih.gov/dbgap/studies/

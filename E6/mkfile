@@ -1,0 +1,3 @@
+metadatos.txt:
+	wget -i RESULTS.txt > $targets.build
+	mkdir -p 'dirname $targets'
